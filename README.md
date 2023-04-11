@@ -1,7 +1,5 @@
 # Prediction-Models-for-Advertisements-Intention
 
-The code is not yet available but will be later today!
-
 816 advertisements were used to classify three specific marketing strategies, namely price leadership, quality leadership and time leadership. Each of the advertisements was assigned manually to exactly one of these categories. In this code, a total of 8 machine learning models are used along with various feature extraction methods to extract features from the advertising texts. Grid Search is used in all cases to optimize the models. The 8 machine learning models and 3 different feature selections (experiment 1-3) are comparatively analyzed. This Repository includes the corresponding Code to the Bachelor Thesis: "What do advertisers want? Predicting the intention of online banner ads." in the Jupiter Notebook as well as the used data set (GT_intention.csv) and the Grid Search tables.
 
 ## Run the Code
